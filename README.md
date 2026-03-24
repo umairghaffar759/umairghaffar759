@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Umair! 👋
 
-<!--
-**umairghaffar759/umairghaffar759** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer and digital creator focusing on automation, AI solutions, and digital growth.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 Currently an ICS computer science student building practical, real-world applications.
+- 💻 I specialize in writing **Python** code, building **Telegram Bots**, and developing automated systems like **Live Trading Bots**.
+- 🤖 Deeply engaged in **Prompt Engineering** and building custom **AI Agents** to provide digital growth, SEO, and web solutions.
+- 📈 Analyzing markets and exploring algorithmic trading.
+- 🎥 I also create digital content and manage multiple channels focused on AI and entertainment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+- **Languages & Core:** Python, C
+- **Development:** Bot Development, Automation, API Integration
+- **Digital Growth:** SEO, Prompt Engineering, Digital Marketing
+
+### ⚡ What I'm Working On
+- Developing an "All-in-One Digital Growth & Web Solutions" AI Agent.
+- Programming a fully automated live trading bot for crypto signals.
+
+### 📫 Let's Connect
+*Add your contact links, Telegram ID, or YouTube links here*
