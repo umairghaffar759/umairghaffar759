@@ -22,3 +22,15 @@
 [![](https://visitcount.itsvg.in/api?id=umairghaffar759&icon=8&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# Hi there, I'm Umair Ghaffar 👋
+
+### 🛠 Skills & Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Trading](https://img.shields.io/badge/Crypto-Trading-orange?style=for-the-badge&logo=bitcoin)
+![SEO](https://img.shields.io/badge/SEO-Digital%20Marketing-blue?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### 📱 Connect with me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umairghaffar759)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/umairgamersa)
