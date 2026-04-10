@@ -1,40 +1,36 @@
 # Hi there! I'm Umair Ghaffar 👋 
-### 🚀 Python Developer | AI Automation & Trading Bot Expert | IRO Finalist
+### 🚀 Python Developer | AI Automation Specialist | IRO Finalist
 
 ![Profile Views](https://komarev.com/ghpvc/?username=umairghaffar759&label=Profile%20Views&color=0e75b6&style=flat-square)
 
 ---
 
 ### 👨‍💻 About Me
-I am an 18-year-old **Python Developer** and **AI Automation Specialist** from Lahore, Pakistan. I bridge the gap between complex AI logic and real-world business solutions. Currently pursuing my ICS studies while building the future of automated trading and content creation.
+I am an 18-year-old **Python Developer** and **AI Enthusiast** from Lahore. I specialize in building intelligent systems that solve real-world problems—from high-frequency trading bots to local business automation.
 
 - 🏆 **Achievement:** Selected as a **Finalist for the International Research Olympiad (IRO)** Student Ambassador Program.
-- 🔭 **Current Focus:** Building specialized **AI Agents** using Google AI Studio & Ollama.
-- 🤖 **Automation:** Developing high-frequency Binance Trading Bots and Telegram Signal systems.
-- 💼 **Real-World Impact:** Created digital feedback systems and modern web solutions for local businesses like *Labaik Broast*.
-- 📚 **Author:** Published an e-book on Gumroad: *"100+ Secret AI Prompts"*.
-- 🎥 **Content:** Managing automated AI-driven YouTube channels (AI Multiverse, StickmanKallu).
+- 🔭 **Current Focus:** Building specialized **AI Agents** using Google AI Studio & Ollama for web automation.
+- 🤖 **Automation:** Developing high-frequency **Binance Trading Bots** and Telegram Signal systems.
+- 💼 **Recent Project:** Built a modern digital feedback and web system for **Labaik Broast**.
+- 📚 **Author:** Published *"100+ Secret AI Prompts"* e-book on Gumroad.
+- 🎥 **Content:** Running automated YouTube channels like *AI Multiverse* and *StickmanKallu*.
 
 ---
 
 ### 🛠 Tech Stack & Skills
 
-| Category | Skills / Tools |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) |
-| **AI & LLMs** | ![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-blueviolet?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-Local%20LLMs-white?style=flat-square) ![AI Studio](https://img.shields.io/badge/Google-AI%20Studio-blue?style=flat-square) |
-| **Trading & Finance** | ![Binance](https://img.shields.io/badge/Binance-API%20Trading-F3BA2F?style=flat-square&logo=binance&logoColor=black) ![Crypto](https://img.shields.io/badge/Crypto-Scalping-orange?style=flat-square) |
-| **Web & Automation** | ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![SEO](https://img.shields.io/badge/SEO-Digital%20Marketing-blue?style=flat-square) ![Bots](https://img.shields.io/badge/Telegram-Bot%20Dev-26A5E0?style=flat-square&logo=telegram) |
-| **Tools** | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) |
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Trading](https://img.shields.io/badge/Crypto-Trading-orange?style=for-the-badge&logo=bitcoin) ![SEO](https://img.shields.io/badge/SEO-Digital_Marketing-blue?style=for-the-badge) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bot Dev](https://img.shields.io/badge/Telegram-Bot_Dev-26A5E0?style=for-the-badge&logo=telegram) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
 ### 📊 GitHub Analysis
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umairghaffar759&show_icons=true&theme=tokyonight&count_private=true&v=1" alt="GitHub Stats" />
-  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=umairghaffar759&theme=tokyonight" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=umairghaffar759&show_icons=true&theme=radical&count_private=true&cache_buster=123" alt="GitHub Stats" />
 </p>
 
 ---
@@ -47,5 +43,5 @@ I am an 18-year-old **Python Developer** and **AI Automation Specialist** from L
 ---
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i> <br><br>
-  <img src="https://profile-counter.glitch.me/umairghaffar759/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=umairghaffar759-total&label=Profile%20Views&color=blue&style=flat-square" alt="Visitor Count" />
 </p>
