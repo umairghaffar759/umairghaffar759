@@ -1,7 +1,7 @@
 # Hi there! I'm Umair Ghaffar 👋 
 ### 🚀 Python Developer | AI Automation & Trading Bot Expert | IRO Finalist
 
-![Profile Views](https://komarev.com/ghpvc/?username=umairghaffar759&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=umairghaffar759&label=Profile%20Views&color=0e75b6&style=flat-square)
 
 ---
 
@@ -12,7 +12,7 @@ I am an 18-year-old **Python Developer** and **AI Automation Specialist** from L
 - 🔭 **Current Focus:** Building specialized **AI Agents** using Google AI Studio & Ollama.
 - 🤖 **Automation:** Developing high-frequency Binance Trading Bots and Telegram Signal systems.
 - 💼 **Real-World Impact:** Created digital feedback systems and modern web solutions for local businesses like *Labaik Broast*.
-- 📚 **Author:** Published an e-book on Gumroad: *"100+ Secret AI Prompts"*.
+- 📚 **Author:** Published an e-book: *"100+ Secret AI Prompts"*.
 - 🎥 **Content:** Managing automated AI-driven YouTube channels (AI Multiverse, CR7MOMENTS67).
 
 ---
@@ -32,16 +32,14 @@ I am an 18-year-old **Python Developer** and **AI Automation Specialist** from L
 ### 📊 GitHub Analysis
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umairghaffar759&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=umairghaffar759&theme=tokyonight" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=umairghaffar759&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 🤝 Let's Connect
-I'm always looking to collaborate on **Open Source AI**, **Algorithmic Trading**, and **Automation Projects**.
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umairghaffar759)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/umairghaffar759)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923024067751)
@@ -49,5 +47,5 @@ I'm always looking to collaborate on **Open Source AI**, **Algorithmic Trading**
 ---
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i> <br><br>
-  <img src="https://profile-counter.glitch.me/umairghaffar759/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=umairghaffar759-views&label=Profile%20Views&color=blue&style=flat-square" alt="Visitor Count" />
 </p>
