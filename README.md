@@ -1,9 +1,7 @@
 # Hi there! I'm Umair Ghaffar 👋 
 ### 🚀 Python Developer | AI Automation Expert | Crypto Trader
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=umairghaffar759&label=Profile%20Views&color=0e75b6&style=flat" alt="umairghaffar759" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=umairghaffar759&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
@@ -31,15 +29,14 @@ I am a passionate **Python Developer** and **AI Enthusiast** from Lahore, Pakist
 ---
 
 ### 📊 GitHub Analysis
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=umairghaffar759&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
-  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=umairghaffar759&theme=tokyonight&hide_border=false" />
-</p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairghaffar759&theme=tokyonight&layout=compact&hide_border=false" />
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=umairghaffar759&theme=tokyonight&no-bg=true&column=3" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umairghaffar759&theme=tokyonight&show_icons=true&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=umairghaffar759&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umairghaffar759&theme=tokyonight&layout=compact)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=umairghaffar759&theme=tokyonight&no-bg=true&column=3)
 
 ---
 
