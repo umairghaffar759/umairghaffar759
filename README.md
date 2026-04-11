@@ -30,9 +30,9 @@ I am an 18-year-old **Python Developer** and **AI Automation Specialist** from L
 ### 📊 GitHub Analysis
 
 <p align="center">
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umairghaffar759&show_icons=true&theme=tokyonight&cache_seconds=86400)](https://github.com/umairghaffar759)
+  <img src="https://github-readme-stats.vercel.app/api?username=umairghaffar759&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br><br>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umairghaffar759&theme=tokyonight)](https://github.com/umairghaffar759)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umairghaffar759&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -45,5 +45,5 @@ I am an 18-year-old **Python Developer** and **AI Automation Specialist** from L
 ---
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i> <br><br>
-  [![Visitor Count](https://komarev.com/ghpvc/?username=umairghaffar759&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/umairghaffar759)
+  <img src="https://komarev.com/ghpvc/?username=umairghaffar759&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitor Count" />
 </p>
