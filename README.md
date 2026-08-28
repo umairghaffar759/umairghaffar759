@@ -1,53 +1,45 @@
-# Hi there! I'm Umair Ghaffar 👋 
-### 🚀 Python Developer | AI Automation & Trading Bot Expert | IRO Finalist
+# 💫 About Me:
+- 🎓 Pursuing BS Cyber Security at University of Central Punjab (UCP).
+- 🌟 Microsoft Learn Student Ambassador (Community Influencer).
+- 🔭 Currently working on **CyberShieldX** (a Python-based security auditing framework) & AI automation workflows (n8n, Ollama).
+- 🌱 Currently learning Advanced Penetration Testing (Ideoversity) & Python Automation (JDC Free IT City).
+- 🏅 Certified in Digital Marketing and completed advanced Microsoft Learn modules (Azure, SQL, GenAI).
+- 💻 Passionate about Linux administration (Kali, Tails), Cloud Security, and building interactive web layouts (React, Tailwind CSS, Three.js).
+- 🎬 Outside of tech, I run an ASMR unboxing YouTube channel **@UnboxAndIgnite**.
+- 📫 How to reach me: umairghaffar759@gmail.com
 
 ---
 
-### 👨‍💻 About Me
-I am an 18-year-old **Python Developer** and **AI Automation Specialist** from Lahore, Pakistan. I bridge the gap between complex AI logic and real-world business solutions. Currently pursuing my ICS studies while building the future of automated trading and content creation.
-
-- 🏆 **Achievement:** Selected as a **Finalist for the International Research Olympiad (IRO)** Student Ambassador Program.
-- 🔭 **Current Focus:** Building specialized **AI Agents** using Google AI Studio & Ollama.
-- 🤖 **Automation:** Developing high-frequency Binance Trading Bots and Telegram Signal systems.
-- 💼 **Real-World Impact:** Created digital feedback systems and modern web solutions for local businesses like *Labaik Broast*.
-- 📚 **Author:** Published an e-book on Gumroad: *"100+ Secret AI Prompts"*.
-- 🎥 **Content:** Managing automated AI-driven YouTube channels (AI Multiverse, StickmanKallu).
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/umairs759) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umairghaffar759) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umairghaffar759@gmail.com)
 
 ---
 
-### 🛠 Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
 
 | Category | Skills / Tools |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) |
-| **AI & LLMs** | ![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-blueviolet?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-Local%20LLMs-white?style=flat-square) ![AI Studio](https://img.shields.io/badge/Google-AI%20Studio-blue?style=flat-square) |
-| **Trading & Finance** | ![Binance](https://img.shields.io/badge/Binance-API%20Trading-F3BA2F?style=flat-square&logo=binance&logoColor=black) ![Crypto](https://img.shields.io/badge/Crypto-Scalping-orange?style=flat-square) |
-| **Web & Automation** | ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![SEO](https://img.shields.io/badge/SEO-Digital%20Marketing-blue?style=flat-square) ![Bots](https://img.shields.io/badge/Telegram-Bot%20Dev-26A5E0?style=flat-square&logo=telegram) |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
+| **AI & LLMs** | ![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-8A2BE2?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-Local_LLMs-black?style=flat-square&logo=ollama&logoColor=white) ![Google AI Studio](https://img.shields.io/badge/Google-AI_Studio-007FFF?style=flat-square&logo=google&logoColor=white) |
+| **Trading & Finance** | ![Binance](https://img.shields.io/badge/Binance-API_Trading-F0B90B?style=flat-square&logo=binance&logoColor=black) ![Crypto](https://img.shields.io/badge/Crypto-Scalping-FF6600?style=flat-square) |
+| **Web & Automation** | ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=black) ![SEO](https://img.shields.io/badge/SEO-Digital_Marketing-007FFF?style=flat-square) ![Telegram](https://img.shields.io/badge/Telegram-Bot_Dev-24A1DE?style=flat-square&logo=telegram&logoColor=white) |
 | **Tools** | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) |
 
 ---
 
-### 📊 GitHub Analysis
+## 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=umairghaffar759&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=umairghaffar759&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=umairghaffar759&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umairghaffar759&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=umairghaffar759&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-
-### 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umairghaffar759)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/umairgamersa)
-
----
-<p align="center">
-  
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=umairghaffar759&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-  <img src="https://komarev.com/ghpvc/?username=umairghaffar759&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitor Count" />
-</p>
+---
+[![](https://komarev.com/ghpvc/?username=umairghaffar759&icon=0&color=0)](https://visitcount.itsvg.in)
