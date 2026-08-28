@@ -1,12 +1,19 @@
 # 💫 About Me:
+
 - 🎓 Pursuing BS Cyber Security at University of Central Punjab (UCP).
+
 - 🌟 Microsoft Learn Student Ambassador (Community Influencer).
+
 - 🔭 Currently working on **CyberShieldX** (a Python-based security auditing framework) & AI automation workflows (n8n, Ollama).
+
 - 🌱 Currently learning Advanced Penetration Testing (Ideoversity) & Python Automation (JDC Free IT City).
+
 - 🏅 Certified in Digital Marketing and completed advanced Microsoft Learn modules (Azure, SQL, GenAI).
+
 - 💻 Passionate about Linux administration (Kali, Tails), Cloud Security, and building interactive web layouts (React, Tailwind CSS, Three.js).
-- 🎬 Outside of tech, I run an ASMR unboxing YouTube channel **@UnboxAndIgnite**.
-- 📫 How to reach me: umairghaffar759@gmail.com
+
+- 📫 How to reach me:
+ umairghaffar759@gmail.com
 
 ---
 
