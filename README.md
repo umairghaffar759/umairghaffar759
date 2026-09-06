@@ -37,7 +37,7 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=umairghaffar759&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=umairghaffar759&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=umairghaffar759&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=umairs759&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=umairghaffar759&theme=radical&no-frame=false&no-bg=true&margin-w=4)
